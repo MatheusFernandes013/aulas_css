@@ -10,14 +10,14 @@ body > header {
 }
 header .container{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 header  li{
     display: inline;
 }
 header li a {
     color: #f5f6fa;
-    align-items: center;
-    justify-content: space-between;
 }
 
 .container {
