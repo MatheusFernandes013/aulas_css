@@ -1,13 +1,15 @@
-li{
-    color: white;
+h1 {
+    color:green;
 }
 h2 {
-    color: white;
-}
-body {
-    background-color: black;
-    color: white;
-}
-.link {
     color: green;
+}
+#economy h2{
+    color: gold;
+}
+.creation-date{
+    color: #ccc;
+}
+*   {
+    color: red;
 }
