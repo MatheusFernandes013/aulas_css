@@ -83,11 +83,11 @@ section h2{
     font-size: 32px;
 }
 
-#sports{
+#Sports{
     background-color: rgba(0, 255, 0, 0.1);
 }
 
-#sports .articles article a{
+#Sports .articles article a{
     background-color: #009432;
 }
 
