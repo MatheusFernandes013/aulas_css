@@ -114,3 +114,11 @@ section h2{
 #entertainment .articles article a{
     background-color: #ff0000;
 }
+
+#tecnology .articles article p {
+    text-align: justify;
+}
+
+#entertainment .articles article p {
+    text-align: justify;
+}
